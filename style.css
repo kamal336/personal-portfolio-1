@@ -81,7 +81,6 @@ a{
 
 .developer-section{
     display: flex;
- 
 }
 
 .developer-section h2{
@@ -120,4 +119,11 @@ a{
     border-image-slice: 1;
 }
 /*experience section ends from here*/
+
+/*footer starts from here*/
+footer{
+    text-align: center;
+    padding:15px;
+}
+/*footer ends from here*/
 
