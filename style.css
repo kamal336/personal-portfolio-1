@@ -14,7 +14,7 @@ h1{
 
 
 h3{
-    font-size: 2.1rem;
+    font-size: 1.9rem;
     padding: 20px 0;
 }
 
@@ -42,7 +42,7 @@ a{
     display: flex;
     background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    margin-bottom: 50px;
  }
  
  .text-section{
@@ -59,5 +59,14 @@ a{
      width: 80%;
  } 
 /*banner section ends from here*/
+
+/*dream section starts from here*/
+#dream-section{
+    display: flex;
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+/*dream section ends from here*/
 
 
