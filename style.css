@@ -5,6 +5,7 @@
 
 body{
     font-family: 'Poppins', sans-serif;
+    text-align: justify;
 }
 
 h1{
@@ -66,7 +67,57 @@ a{
     background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
+    margin-bottom: 50px;
 }
 /*dream section ends from here*/
 
+/*experience section starts from here*/
+#experiene-section{
+    padding: 2% 4%;
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    
+}
+
+.developer-section{
+    display: flex;
+ 
+}
+
+.developer-section h2{
+    font-size: 2rem;
+}
+
+.developer-section h4{
+    font-size: 1.4rem;
+    padding: 15px 0;
+    
+}
+.fullstack-section{
+    width: 50%;
+    padding: 20px;
+    box-shadow: 2px 8px 23px black;
+    margin: 20px;
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+
+}
+
+.baby-section h4{
+    font-size: 1.4rem;
+    padding: 15px 0;
+   
+}
+
+.baby-section{
+    width: 50%;
+    padding: 20px;
+    box-shadow: 5px 7px  23px black;
+    margin: 20px;
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, hsl(256, 69%, 49%), #14d4d4);
+    border-image-slice: 1;
+}
+/*experience section ends from here*/
 
